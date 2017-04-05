@@ -30,11 +30,11 @@ bower install --save jsmicro-is-defined
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-defined
+npm install --save @jsmicro/is-defined
 ```
 
 ```js
-const obj = require('jsmicro-is-defined');
+const obj = require('@jsmicro/is-defined');
 
 let undef;
 let def = 'Defined';
